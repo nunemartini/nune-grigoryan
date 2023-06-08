@@ -29,7 +29,7 @@ public class Elevator {
                 System.out.println(currentFloor);
             }
         } else {
-            System.out.println("Что-то пошло не так:(");
+            System.out.println("Что-то пошло не так");
             return;
         }
 
